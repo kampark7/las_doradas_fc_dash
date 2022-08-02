@@ -1,4 +1,4 @@
-# las_doradas_dash
+# las_doradas_fc_dash
 
 1) (Optional) Install anaconda/miniconda and create a new environment using python=3.10 (conda create -n soccer python=3.10 & conda activate soccer)
 
